@@ -12,3 +12,7 @@ print(a)
 b = 5
 
 print(b)
+
+c = 1
+
+print(c)
